@@ -1,0 +1,15 @@
+{
+
+  "name": "NobuBot-XD",
+
+  "version": "10.11.11",
+
+  "description": "Premium Pc Owner",
+
+  "main": "zeeone.js",
+
+  "directories": {
+
+    "lib": "lib"
+
+  },
