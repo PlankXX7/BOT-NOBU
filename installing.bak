@@ -1,0 +1,4 @@
+$ termux-setup-storage
+$ cd /storage/emulated/0/Loc@lArga
+$ yarn install
+$ node index.js
